@@ -1,4 +1,4 @@
-// src/components/UserAccount.js
+
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
@@ -12,7 +12,7 @@ const UserAccount = () => {
         const fetchUser = async () => {
             try {
                 console.log('Fetching user data...');
-                const result = await axios.get('http://localhost:3001/user/user_01'); // Replace USER_ID with actual user ID
+                const result = await axios.get('http://localhost:3001/user/user_01'); 
                 console.log('User data:', result.data);
                 setUser(result.data);
             } catch (error) {
