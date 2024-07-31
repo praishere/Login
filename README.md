@@ -1,21 +1,61 @@
 # Login & Registration Form with MERN stack
 
-## 👋 Introduction
+## ❓Requirements
 
-Responsive user Registration and Login (SignIn & SignUp) Form functionality using React, NodeJS, ExpressJS and MongoDB and Bootstrap.
+Before proceeding, make sure you have **Node.js** installed on your machine.  
+If you haven't installed it yet, you can download it from the official website:
+
+- [Node.js](https://nodejs.org/en/download)
 
 
-![Screenshot (219)](https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack/assets/117456092/442bbe2d-cda7-4d5c-a156-9e9cc9b3f108)
+## ⚙️ Installation & Getting Started:
 
-![Screenshot (220)](https://github.com/AkshataGanbote/Registration_Login_Form_MERN_Stack/assets/117456092/01b04452-4e8b-4a24-b680-28c93f2c7550)
+1. Clone the repository to your local machine
 
+2. Unzip the folder and open it in [VS Code](https://code.visualstudio.com/)
+
+- <h3> Frontend
+
+1. Open the terminal and navigate to the `frontend` directory
+
+2. Install the dependencies by running the command `npm install`
+
+3. Start the development server by running the command `npm run dev`
+
+4. Access the application by visiting `http://localhost:5173/` in your browser
+
+- <h3> Backend
+
+1. Open the terminal and navigate to the `backend` directory
+
+2. Install the dependencies by running the command `npm install`
+
+3. Start the server by running the command `npm start` or `nodemon index.js`
+
+- Congratulations! 🎉 You have successfully set up the environment
+
+
+
+## 🛠️ Technologies Used
+
+This project utilizes the following technologies:
+
+- [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for the frontend
+- [Express](http://expressjs.com/) and [Node.js](https://nodejs.org/en/) for the backend
+- [MongoDB](https://www.mongodb.com/) for the database
+- [Bootstrap](https://getbootstrap.com/) for styling
+
+<br/>
+
+<h2> Don't forget to give us a star! ⭐🤗 </h2>
 
 ## ❓Requirements
 
-Before going forward you must have **Node js** installed on your machine.  
+Before going forward you must have **Node js** and **MongoDB** installed on your machine.  
 Go to the link below for installation if you don't have installed yet.
 
 - [Node js](https://nodejs.org/en/download)
+- [MongoDB](https://docs.mongodb.com/manual/installation/)
 
 
 ## ⚙️ Installation & Getting started :
@@ -41,21 +81,3 @@ Go to the link below for installation if you don't have installed yet.
 2. install dependencies by running `npm install` command
 
 3. Run the command `npm start` or `nodemon index.js` to start live server on database
-
-
-- Congratulation 🎉 you have setup the environment successfully
-
-
-
-## 🛠️ Technology Used
-
-This project uses the following technologies:
-
-- [React](https://reactjs.org) and [React Router](https://reacttraining.com/react-router/) for frontend
-- [Express](http://expressjs.com/) and [Node](https://nodejs.org/en/) for the backend
-- [MongoDB](https://www.mongodb.com/) for the database
-- [Bootstrap](https://getbootstrap.com/) for styling
-
-<br/>
-
-<h2> Do not forget to give a star! ⭐🤗 </h2>
